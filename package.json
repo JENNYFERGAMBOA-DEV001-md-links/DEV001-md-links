@@ -14,7 +14,7 @@
   "directories": {
     "test": "test"
   },
-  "scripts": { 
+  "scripts": {
     "test": "jest --coverage"
   },
   "repository": {
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/JENNYFERGAMBOA/JENNYFERGAMBOA-DEV001-md-links/blob/main/README.md",
   "dependencies": {
-    "jest": "^29.3.1"
+    "jest": "^29.4.0"
   }
 }
